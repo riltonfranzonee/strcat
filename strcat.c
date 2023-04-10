@@ -8,6 +8,6 @@ void strcat(char *s, char *t) {
 
 int main() {
 	char str[80] = "initial";
-  strcat(str, " test");
+  	strcat(str, " test");
 	puts(str);
 }
